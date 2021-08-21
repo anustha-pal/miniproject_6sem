@@ -4,7 +4,7 @@
 
 
 
-Hello guys, hope you all doing good in this pandemic time. Finally learning multiple tools and technologies i am able to integrate them and create something new. Here, i have created a webapp that will helps us to detect the brain tumor using Hybrid multi cloud and MLOps tools. In this project i have created first the model using Convolutional neural network. The model is saved and using flask created a webapp whereas the using dockerfile created image. So let’s start this project by knowing the deep learning codes and explaination on the same.
+Hello guys, hope you all doing good in this pandemic time. Finally learning multiple tools and technologies i am able to integrate them and create something new. Here, i have created a webapp that will helps us to detect the brain tumor . In this project i have created first the model using Convolutional neural network.. So let’s start this project by knowing the deep learning codes and explaination on the same.
 
 ## Convolutional Network Architecture:
 I have used CNN algorithm to get the prediction of brain tumor using brain MRI images. You can easily find the dataset of brain MRI on kaggle here. The dataset is basically classified into 4 classes which is mentioned below.
