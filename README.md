@@ -1,9 +1,7 @@
 # miniproject_6sem
 
-# Brain Tumor Detection MLops And Hybrid Multi Cloud
-<p align="center">
-  <img width="1000" height="500" src="https://github.com/amit17133129/Brain_Tumor_Detection_MLops_and_Hybrid_Multi_Cloud/blob/main/brain%20image.gif?raw=true">
-</p>
+# Brain Tumor Detection 
+
 
 
 Hello guys, hope you all doing good in this pandemic time. Finally learning multiple tools and technologies i am able to integrate them and create something new. Here, i have created a webapp that will helps us to detect the brain tumor using Hybrid multi cloud and MLOps tools. In this project i have created first the model using Convolutional neural network. The model is saved and using flask created a webapp whereas the using dockerfile created image. So let’s start this project by knowing the deep learning codes and explaination on the same.
